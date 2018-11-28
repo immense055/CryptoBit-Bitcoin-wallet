@@ -4,7 +4,7 @@
 
 <h3>Chrome extension bitcoin wallet.</h3>
 
-![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/installbutton.png "Install CryptoBit Wallet")
+<a href='http://google.com'>![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/installbutton.png "Install CryptoBit Wallet")</a>
 
 
 <p>CryptoBit is a Bitcoin wallet giving you the ability to store Bitcoin in a secure environment. 
