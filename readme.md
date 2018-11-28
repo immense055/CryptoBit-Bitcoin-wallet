@@ -8,3 +8,7 @@
 Manage your cryptocurrency and monitor market price movements. 
 Manage your bitcoin finances in one app with the secure, open source wallet by CRYPTOBIT.  </p>
 
+<ul>
+  <li>No signup required.</li>
+  <li>No personal information required. </li>
+</ul>
