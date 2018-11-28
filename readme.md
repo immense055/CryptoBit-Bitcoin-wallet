@@ -22,6 +22,6 @@ Manage your bitcoin finances in one app with the secure, open source wallet by C
 </ul>
   
 
-  
+  ![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/one.jpg "Logo Title Text 1")
 
 
