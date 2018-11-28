@@ -19,11 +19,16 @@ Manage your bitcoin finances in one app with the secure, open source wallet by C
   
 
   
+###  
+
+###  
+
 ### 
+
 ### 
+
 ### 
-### 
-### 
+
 ### 
 
   
