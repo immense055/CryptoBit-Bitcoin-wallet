@@ -3,7 +3,6 @@
 <img align="left" src="https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/home.jpg">
 
 <h3>Chrome extension bitcoin wallet.</h3>
-
 <a href='https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/chrome-web-store.png'>
 ![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/chrome-web-store.png "Chrome WebStore")
 </a>
