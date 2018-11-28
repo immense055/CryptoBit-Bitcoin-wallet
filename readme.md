@@ -3,8 +3,8 @@
 <img align="left" src="https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/home.jpg">
 
 <h3>Chrome extension bitcoin wallet.</h3>
-<a href='https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/chrome-web-store.png'>
-![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/chrome-web-store.png "Chrome WebStore")
+<a href='https://chrome.google.com/webstore/detail/cryptobit-bitcoin-wallet/ckpaelocniggkheibcacecnmmlmeodfa'>
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 </a>
 
 
@@ -24,10 +24,4 @@ Manage your bitcoin finances in one app with the secure, open source wallet by C
 
   
 
-
-  
-  
-  
-
-![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/one.jpg "Logo Title Text 1")
 
