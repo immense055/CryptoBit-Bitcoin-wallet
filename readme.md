@@ -1,1 +1,1 @@
-![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/edit/master/readmeIMG/home.jpg "Logo Title Text 1")
+![alt text](https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/home.jpg "Logo Title Text 1")
