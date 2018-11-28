@@ -1,5 +1,5 @@
 # CryptoBit: Bitcoin-wallet
-<div>
+
 <img align="left" src="https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/home.jpg">
 
 <h3>Chrome extention bitcoin wallet.</h3>
@@ -17,7 +17,7 @@ Manage your bitcoin finances in one app with the secure, open source wallet by C
   <li>Get info about any bitcoin address in the world.</li>
 </ul>
   
-</div>
+
 
 <h2> Settings page</h2>
     
