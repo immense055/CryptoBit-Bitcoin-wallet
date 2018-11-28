@@ -11,4 +11,8 @@ Manage your bitcoin finances in one app with the secure, open source wallet by C
 <ul>
   <li><strong>No signup required.<strong></li>
   <li><strong>No personal information required.</strong> </li>
+    <li>Send Bitcoin to any address fast and easy.</li>
+  <li>Watch transaction history.</li>
+      <li>Watch Top 100 Cryptocurrencies by Market Capitalization.</li>
+  <li>Get info about any bitcoin address in the world</li>
 </ul>
