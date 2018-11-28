@@ -4,7 +4,7 @@
 
 <h3>Chrome extension bitcoin wallet.</h3>
 
-<a target="_blank" rel="noopener noreferrer" href='https://chrome.google.com/webstore/detail/cryptobit-bitcoin-wallet/ckpaelocniggkheibcacecnmmlmeodfa'>
+<a href='https://chrome.google.com/webstore/detail/cryptobit-bitcoin-wallet/ckpaelocniggkheibcacecnmmlmeodfa'  target="_blank">
  <img src='https://github.com/edmlbox/CryptoBit-Bitcoin-wallet/blob/master/readmeIMG/chrome-web-store.png'/>
 </a>
 
