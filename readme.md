@@ -10,7 +10,7 @@
 
 [Visit application page](https://chrome.google.com/webstore/detail/cryptobit-bitcoin-wallet/ckpaelocniggkheibcacecnmmlmeodfa)
 
-<p>CryptoBit is a Bitcoin wallet giving you the ability to store Bitcoin in a secure environment. 
+<p>CryptoBit - is a chrome based Bitcoin wallet giving you the ability to store Bitcoin in a secure environment. 
 Manage your cryptocurrency and monitor market price movements. 
 Manage your bitcoin finances in one app with the secure, open source wallet by CRYPTOBIT.  </p>
 
